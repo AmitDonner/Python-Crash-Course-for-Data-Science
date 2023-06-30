@@ -1,4 +1,4 @@
-# Python's crash course for data scientists
+# Python crash course for data scientists
 During the Summer of 2022 I had the honor of being part of the teaching staff of the [Summer Institute in Computational Social Science (SICSS)](https://sicss.io/2022/haifa/) which took place at Haifa university. 
 
 During this program I built from scratch a 5-days crash course in Python. 
